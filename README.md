@@ -1,5 +1,3 @@
-# jogoMemoria
-
 # Jogo da Memória - Tema Meio Ambiente
 
 Este projeto é um **jogo da memória** criado com **HTML**, **CSS** e **JavaScript**, com o objetivo de promover a conscientização sobre o **descarte adequado de resíduos** e **reciclagem** de uma forma divertida e educativa. O jogo apresenta cartas com imagens relacionadas ao tema, como diferentes tipos de lixo e materiais recicláveis, e usa cores pastéis para diferenciar os tipos de resíduos.
